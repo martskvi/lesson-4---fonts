@@ -1,0 +1,25 @@
+/*ქართული ფონტი*/
+@font-face {
+    font-family: 'BPG Mikheil Stefane';
+    src: url('../fonts/mikheil - stefane/bpg-mikheil-stefane-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/mikheil - stefane/bpg-mikheil-stefane-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/mikheil - stefane/bpg-mikheil-stefane-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/mikheil - stefane/bpg-mikheil-stefane-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/mikheil - stefane/bpg-mikheil-stefane-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/mikheil - stefane/bpg-mikheil-stefane-webfont.svg#bpg_mikheil_stefaneregular') format('svg'); /* Legacy iOS */
+}
+
+/*ინგლისური ფონტი*/
+
+@font-face {
+    font-family: 'Lobster Two';
+    src: url('../fonts/Lobster Two/LobsterTwo-BoldItalic.eot');
+    src: url('../fonts/Lobster Two/LobsterTwo-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lobster Two/LobsterTwo-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Lobster Two/LobsterTwo-BoldItalic.woff') format('woff'),
+        url('../fonts/Lobster Two/LobsterTwo-BoldItalic.ttf') format('truetype'),
+        url('../fonts/Lobster Two/LobsterTwo-BoldItalic.svg#LobsterTwo-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}

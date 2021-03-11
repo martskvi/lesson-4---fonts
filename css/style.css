@@ -1,0 +1,205 @@
+.nav-1 {
+	color: #3D58A6 ;
+	font-size: 22px ;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.active {
+	color: #EE4036 ;
+}
+
+
+/*header style*/
+header {
+	margin-bottom: 30px ;
+}
+.navigation {
+	display: inline-block ;
+	vertical-align: middle;
+	margin-top: 30px ;
+}
+.banner {
+	margin-top: 77px ;
+	margin-left: 98px ;
+	margin-bottom: 117px ;
+	margin-right: 98px ;
+}
+.logo {
+	display: inline-block ;
+	margin-right: 49.8px ;
+	margin-left: 30px ;
+	margin-top: 30px ;
+	vertical-align: middle;
+}
+.nav-li {
+	display: inline-block ;
+	margin-right: 30px ;
+}
+.left-block {
+	width: 570px ;
+	height: 225px ;
+	display: inline-block ;
+	background-color: #F2F2F2 ;
+	margin-right: 29px ;
+	margin-left: 98px ;
+	padding-top: 11.1px ;
+	padding-left: 20.8px ;
+}
+.right-block {
+	width: 570px ;
+	height: 225px ;
+	display: inline-block ;
+	background-color: #F2F2F2 ;
+	margin-right: 29px ;
+	padding-top: 11.1px ;
+	padding-left: 17.1px ;
+}
+.title {
+	margin-bottom: 29.2px ;
+	margin-left: 98px ;
+	font-size: 24px ;
+}
+.text-block {
+	display: inline-block;
+	width: 355px ;
+	font-size: 20px ;
+	vertical-align: middle;
+}
+.image-block {
+	display: inline-block ;
+	vertical-align: middle;
+	padding-right: 60px ;
+}
+.title-2 {
+	padding-top: 11.1px ;
+	padding-left: 20.8px ;
+	font-size: 22px ;
+	color: #3D58A6 ;
+}
+.divider {
+	width: 2px ;
+	height: 27px ;
+	background-color: #363E97 ;
+	display: inline-block;
+	margin-left: 35px ;
+	margin-right: 36px ;
+}
+
+
+/*footer style*/
+footer {
+	margin-top: 68px ;
+	/*margin-left: 109px ;*/
+}
+.index {
+	margin-left: 109px ;
+}
+.news {
+	margin-left: 33.7px ;
+}
+.contact {
+	margin-left: 47.7px ;
+}
+
+
+/*news page style*/
+.date {
+	width: 56px ;
+	height: 56px ;
+	background-color: #3D58A6 ;
+	font-size: 48px ;
+	color: #FFFFFF ;
+	margin-left: 30px ;
+	padding-left: 4.1px ;
+}
+.month {
+	color: #3D58A6 ;
+	font-size: 22px ;
+	margin-left: 30px ;
+}
+.statia {
+	font-size: 20px ;
+	color: #000000 ;
+	margin-top: 17.5px ;
+	margin-bottom: 17.5px ;
+	margin-left: 30px ;
+}
+.news-image {
+	margin-left: 30px ;
+	margin-right: 39px ;
+	display: inline-block;
+	vertical-align: top;
+}
+.news-text {
+	width: 929px ;
+	height: 352px ;
+	font-size: 16px ;
+	color: #000000 ;
+	display: inline-block;
+	vertical-align: top;
+}
+.text2 {
+	margin-top: 22px ;
+	margin-bottom: 22px ;
+}
+.state2 {
+	margin-top: 38px ;
+}
+.state3 {
+	margin-top: 38px ;
+}
+
+/*contact page*/
+
+.contact-page {
+	color: #3D58A6 ;
+	font-size: 20px ;
+}
+.contact-navigation {
+	/*margin-left: 97px ;
+	margin-top: 51px ;
+	margin-bottom: 420px ;
+	margin-right: 63px ;*/
+	margin: 51px 63px 420px 97px ;
+}
+.contact-span {
+	font-size: 16px ;
+	color: #808080 ;
+}
+.contact-link {
+	font-size: 16px ;
+	color: #000000 ;
+}
+.map {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 63px ;
+}
+.display {
+	display: inline-block;
+	vertical-align: top;
+}
+.contact-li {
+	line-height: 25px ;
+}
+.blanck {
+	background-color: #E6E6E6;
+}
+
+
+/*fonts*/
+
+.news-text {
+	font-family: 'BPG Mikheil Stefane';
+	text-indent: 30px;
+}
+.text-block {
+	font-family: 'Lobster Two';
+}
+.contact-navigation {
+	line-height: 30px;
+	font-family: "BPG Nuskha Modern", sans-serif;
+}
+.title-2 {
+	text-transform: uppercase;
+	font-family: 'Indie Flower', cursive;
+}
